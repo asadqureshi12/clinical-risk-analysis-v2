@@ -82,6 +82,7 @@ data/medications.csv         data/encounters.csv
 
 ```
 clinical-risk-analysis-v2/
+├── validate_fhir.py                   ← FHIR structural validation script
 ├── README.md
 ├── requirements.txt
 ├── run_pipeline.py                          ← end-to-end orchestrator
@@ -118,7 +119,7 @@ clinical-risk-analysis-v2/
 │   ├── fhir/
 │   │   └── clinical_risk_bundle.json
 │   └── validation/
-│       └── fhir_validation_report.txt
+│       └──     └── fhir_validation_report.txt     ← HL7 FHIR Validator R4 output
 │
 └── docs/
     ├── sprint_1_log.md
