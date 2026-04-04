@@ -13,6 +13,8 @@
 
 ---
 
+![Pipeline Architecture](outputs/figures/pipeline_diagram.png)
+
 ## What This Project Demonstrates
 
 - End-to-end traceability from raw EHR → risk score → segment → FHIR output
