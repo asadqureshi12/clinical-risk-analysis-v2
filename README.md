@@ -1,4 +1,6 @@
-# Clinical Risk Analysis Pipeline v2.1
+# Clinical Risk Analysis Pipeline v2
+
+![FHIR Validation](https://github.com/asadqureshi12/clinical-risk-analysis-v2/actions/workflows/validate.yml/badge.svg)
 
 > An NHS-facing health informatics portfolio project built in Python and JupyterLab.  
 > Synthetic EHR data (Synthea) · SNOMED CT · UK ICD-10 5th Edition · FHIR R4  
