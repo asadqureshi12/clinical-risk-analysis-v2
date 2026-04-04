@@ -1,0 +1,56 @@
+import json
+import re
+import sys
+
+with open('outputs/fhir/clinical_risk_bundle.json') as f:
+    bundle = json.load(f)
+
+errors = []
+counts = {'Patient': 0, 'Encounter': 0, 'Condition': 0, 'RiskAssessment': 0}
+seen_urls = {}
+
+for i, entry in enumerate(bundle.get('entry', [])):
+    res = entry.get('resource', {})
+    rtype = res.get('resourceType')
+    if not rtype:
+        errors.append(f'Entry {i}: missing resourceType')
+        continue
+    if rtype in counts:
+        counts[rtype] += 1
+    if rtype == 'Patient':
+        if 'gender' not in res:
+            errors.append(f'Entry {i} Patient: missing gender')
+        if 'birthDate' not in res:
+            errors.append(f'Entry {i} Patient: missing birthDate')
+    elif rtype == 'Condition':
+        codings = res.get('code', {}).get('coding', [])
+        systems = [c.get('system') for c in codings]
+        if 'http://snomed.info/sct' not in systems:
+            errors.append(f'Entry {i} Condition: missing SNOMED coding')
+        if 'http://hl7.org/fhir/sid/icd-10' not in systems:
+            errors.append(f'Entry {i} Condition: missing ICD-10 coding')
+        if 'clinicalStatus' not in res:
+            errors.append(f'Entry {i} Condition: missing clinicalStatus')
+    elif rtype == 'RiskAssessment':
+        if 'prediction' not in res:
+            errors.append(f'Entry {i} RiskAssessment: missing prediction')
+        if 'note' not in res:
+            errors.append(f'Entry {i} RiskAssessment: missing note')
+    url = entry.get('fullUrl', '')
+    if url in seen_urls:
+        errors.append(f'Entry {i}: duplicate fullUrl {url}')
+    else:
+        seen_urls[url] = i
+
+print('── Validation Results ──────────────────────')
+for rtype, count in counts.items():
+    print(f'  {rtype:<20} : {count}')
+print(f'  Total entries        : {len(bundle["entry"])}')
+print()
+if errors:
+    print(f'FAILED — {len(errors)} errors:')
+    for e in errors[:20]:
+        print(f'  - {e}')
+    sys.exit(1)
+else:
+    print('ALL CHECKS PASSED')
