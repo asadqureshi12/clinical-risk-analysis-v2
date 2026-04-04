@@ -1,0 +1,37 @@
+# Mac system files
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+src/__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw Synthea data
+data/conditions.csv
+data/patients.csv
+data/medications.csv
+data/encounters.csv
+
+# Large non-project files
+data/*.pdf
+data/*.dmg
+
+# Intermediate outputs
+outputs/OLD/
+outputs/conditions_icd10_cleaned.csv
+outputs/conditions_encounter_merged.csv
+outputs/conditions_icd10_fhir_ready.csv
+outputs/conditions_icd10_full_audit.csv
+outputs/unmapped_snomed_codes.csv
+
+# Compiled Python
+src/__pycache__/
+
+# Misc
+clinical_matrix.png
+.env

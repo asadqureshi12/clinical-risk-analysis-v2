@@ -16,7 +16,7 @@ SEGMENTS_PATH    = "outputs/patient_segments.csv"
 OUTPUT_DIR       = "outputs"
 
 def main():
-    print("══ Clinical Risk Analysis Pipeline v2.1 ══════════════")
+    print("══ Clinical Risk Analysis Pipeline v2 ══════════════")
 
     print("\n── Sprint 1 : SNOMED Condition Mapping ───────────────")
     conditions = pd.read_csv(CONDITIONS_PATH)
