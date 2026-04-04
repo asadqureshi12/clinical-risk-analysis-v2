@@ -84,6 +84,7 @@ clinical-risk-analysis-v2/
 ├── requirements.txt
 ├── run_pipeline.py                          ← end-to-end orchestrator
 ├── .gitignore
+├── snomed_map.ipynb                         ← main working notebook
 │
 ├── data/
 │   └── reference/                          ← tracked reference files only
@@ -97,13 +98,6 @@ clinical-risk-analysis-v2/
 │   ├── assign_segments.py
 │   ├── map_icd10.py
 │   └── build_fhir_bundle.py
-│
-├── notebooks/
-│   ├── 01_snomed_conditions.ipynb
-│   ├── 02_risk_scorer.ipynb
-│   ├── 03_segmentation.ipynb
-│   ├── 04_icd10_mapper.ipynb
-│   └── 05_fhir_exporter.ipynb
 │
 ├── outputs/
 │   ├── snomed_conditions_universe.csv
@@ -455,8 +449,13 @@ This project was built as a portfolio demonstration of NHS-facing health informa
 
 Sprint logs documenting design decisions, known limitations, and validation results are available in `docs/`.
 
-### Clinical Safety and Governance
+### Development Approach
+This project was developed using a lightweight Agile methodology:
+- Sprint-based modular development — 5 sprints, each with a discrete deliverable
+- Incremental delivery with validated outputs at each stage before proceeding
+- Iterative refinement based on validation findings — e.g. the FHIR bundle went through 8 validation rounds achieving 97.7% error reduction
 
+### Clinical Safety and Governance
 While this is a synthetic demonstration project, the architecture follows the spirit of DCB0129 clinical safety standards — specifically regarding the auditability of the risk-scoring logic, the transparency of every design decision, and the preservation of clinical granularity through dual SNOMED and ICD-10 coding. Every scoring weight, segmentation threshold, and mapping choice is documented with clinical rationale rather than treated as a black-box parameter. In a production NHS deployment, this pipeline would require a formal Clinical Safety Case under DCB0129 (manufacturer) and DCB0160 (deployer) before use in any clinical decision-making context.
 
 ---
