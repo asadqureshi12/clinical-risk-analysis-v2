@@ -1,0 +1,116 @@
+icd10_code,icd10_description
+E11.4,Type 2 diabetes mellitus with neurological complications
+E11.3,Type 2 diabetes mellitus with ophthalmic complications
+E11.2,Type 2 diabetes mellitus with renal complications
+I10,Essential (primary) hypertension
+I48.9,"Atrial fibrillation, unspecified"
+E78.5,"Hyperlipidaemia, unspecified"
+I25.1,Atherosclerotic heart disease
+I21.9,"Acute myocardial infarction, unspecified"
+I25.2,Old myocardial infarction
+E78.1,Pure hyperglyceridaemia
+I46.9,"Cardiac arrest, unspecified"
+I50.9,"Heart failure, unspecified"
+E11.9,Type 2 diabetes mellitus without complications
+E10.9,Type 1 diabetes mellitus without complications
+R73.0,Abnormal glucose
+E66.9,"Obesity, unspecified"
+E66.0,Morbid obesity
+E88.8,Other specified metabolic disorders
+E03.9,"Hypothyroidism, unspecified"
+N30.9,"Cystitis, unspecified"
+N39.0,"Urinary tract infection, site not specified"
+N18.1,"Chronic kidney disease, stage 1"
+N18.2,"Chronic kidney disease, stage 2"
+N10,Acute tubulo-interstitial nephritis
+J20.9,"Acute bronchitis, unspecified"
+J45.0,Predominantly allergic asthma
+J45.9,"Asthma, unspecified"
+J44.9,"Chronic obstructive pulmonary disease, unspecified"
+J43.9,"Emphysema, unspecified"
+J18.9,"Pneumonia, unspecified"
+J42,Unspecified chronic bronchitis
+F17.1,Mental and behavioural disorders due to use of tobacco - harmful use
+R91.8,Other nonspecific abnormal findings on diagnostic imaging of lung
+C34.9,"Malignant neoplasm of bronchus and lung, unspecified"
+C34.1,"Malignant neoplasm of upper lobe, bronchus or lung"
+S09.9,Unspecified injury of head
+I63.9,"Cerebral infarction, unspecified"
+S14.1,Other injuries of cervical spinal cord
+G40.9,"Epilepsy, unspecified"
+G43.7,Chronic migraine without aura
+S06.0,Concussion
+G30.0,Alzheimer's disease with early onset
+G30.9,"Alzheimer's disease, unspecified"
+S39.0,"Injury of muscle and tendon of abdomen, lower back and pelvis"
+F33.9,"Recurrent depressive disorder, unspecified"
+F90.9,"Hyperkinetic disorder, unspecified"
+F32.9,"Depressive episode, unspecified"
+T50.9,Poisoning by other and unspecified drugs
+F10.2,Mental and behavioural disorders due to use of alcohol - dependence syndrome
+F11.1,Mental and behavioural disorders due to use of opioids - harmful use
+K63.5,Polyp of colon
+K37,Unspecified appendicitis
+Z87.3,Personal history of musculoskeletal disorders
+T30.2,"Burn of second degree, body region unspecified"
+K62.5,Haemorrhage of anus and rectum
+C18.9,"Malignant neoplasm of colon, unspecified"
+K35.2,Acute appendicitis with generalised peritonitis
+C18.8,Overlapping malignant neoplasm of colon
+C78.5,Secondary malignant neoplasm of large intestine and rectum
+S63.6,Sprain of finger
+S52.5,Fracture of lower end of radius
+S93.4,Sprain of ankle
+M17.9,"Gonarthrosis, unspecified"
+M16.9,"Coxarthrosis, unspecified"
+S82.8,Fractures of other parts of lower leg
+S62.0,Fracture of navicular bone of hand
+S22.3,Fracture of rib
+M81.0,Postmenopausal osteoporosis
+M19.0,Primary arthrosis of other joints
+M76.5,Patellar tendinitis
+M23.2,Derangement of meniscus due to old tear or injury
+M10.9,"Gout, unspecified"
+M06.9,"Rheumatoid arthritis, unspecified"
+S72.0,Fracture of neck of femur
+M80.0,Postmenopausal osteoporosis with pathological fracture
+S83.5,Sprain of knee
+M79.3,Panniculitis
+S83.4,Sprain of lateral collateral ligament of knee
+Z34.9,"Supervision of normal pregnancy, unspecified"
+O03.9,"Spontaneous abortion, complete or unspecified, without complication"
+O36.9,Maternal care for unspecified fetal problem
+C50.9,"Malignant neoplasm of breast, unspecified"
+O14.9,"Pre-eclampsia, unspecified"
+O00.1,Tubal pregnancy
+O02.0,Blighted ovum and non-hydatidiform mole
+O15.0,Eclampsia in pregnancy
+S91.3,Open wound of foot
+S13.4,Sprain and strain of cervical spine
+S51.8,Open wound of other parts of forearm
+S71.1,Open wound of thigh
+S42.0,Fracture of clavicle
+S01.8,Open wound of other parts of head
+S61.4,Open wound of hand
+S46.0,Injury of supraspinatus muscle and tendon
+T30.0,"Burn of unspecified body region, unspecified degree"
+T30.1,"Burn of first degree, body region unspecified"
+T14.8,Other injury of unspecified body region
+D29.1,Benign neoplasm of prostate
+D07.5,Carcinoma in situ of prostate
+C79.8,Secondary malignant neoplasm of other specified sites
+L20.9,"Atopic dermatitis, unspecified"
+L25.9,"Unspecified contact dermatitis, unspecified cause"
+D64.9,"Anaemia, unspecified"
+K01.1,Impacted teeth
+T78.4,"Allergy, unspecified"
+G89.2,"Chronic pain, not elsewhere classified"
+K52.9,"Non-infective gastro-enteritis and colitis, unspecified"
+J32.9,"Chronic sinusitis, unspecified"
+J06.9,"Acute upper respiratory infection, unspecified"
+J02.9,"Acute pharyngitis, unspecified"
+J02.0,Streptococcal pharyngitis
+J01.9,"Acute sinusitis, unspecified"
+H66.9,"Otitis media, unspecified"
+J30.9,"Allergic rhinitis, unspecified"
+J30.1,Allergic rhinitis due to pollen

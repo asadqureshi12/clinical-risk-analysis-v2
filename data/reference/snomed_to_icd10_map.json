@@ -1,0 +1,647 @@
+[
+  {
+    "snomed_code": 368581000119106,
+    "icd10_code": "E11.4",
+    "icd10_desc": "Type 2 diabetes mellitus : With neurological complications"
+  },
+  {
+    "snomed_code": 422034002,
+    "icd10_code": "E11.3",
+    "icd10_desc": "Type 2 diabetes mellitus : With ophthalmic complications - retinopathy"
+  },
+  {
+    "snomed_code": 1551000119108,
+    "icd10_code": "E11.3",
+    "icd10_desc": "Type 2 diabetes mellitus : With ophthalmic complications - nonproliferative retinopathy"
+  },
+  {
+    "snomed_code": 127013003,
+    "icd10_code": "E11.2",
+    "icd10_desc": "Type 2 diabetes mellitus with renal complications - nephropathy"
+  },
+  {
+    "snomed_code": 90781000119102,
+    "icd10_code": "E11.2",
+    "icd10_desc": "Type 2 diabetes mellitus with renal complications - microalbuminuria"
+  },
+  {
+    "snomed_code": 97331000119101,
+    "icd10_code": "E11.3",
+    "icd10_desc": "Type 2 diabetes mellitus : With ophthalmic complications - macular oedema"
+  },
+  {
+    "snomed_code": 1501000119109,
+    "icd10_code": "E11.3",
+    "icd10_desc": "Type 2 diabetes mellitus : With ophthalmic complications - proliferative retinopathy"
+  },
+  {
+    "snomed_code": 59621000,
+    "icd10_code": "I10",
+    "icd10_desc": "Essential (primary) hypertension"
+  },
+  {
+    "snomed_code": 49436004,
+    "icd10_code": "I48.9",
+    "icd10_desc": "Atrial fibrillation and atrial flutter, unspecified"
+  },
+  {
+    "snomed_code": 55822004,
+    "icd10_code": "E78.5",
+    "icd10_desc": "Hyperlipidaemia, unspecified"
+  },
+  {
+    "snomed_code": 53741008,
+    "icd10_code": "I25.1",
+    "icd10_desc": "Atherosclerotic heart disease - coronary artery disease"
+  },
+  {
+    "snomed_code": 22298006,
+    "icd10_code": "I21.9",
+    "icd10_desc": "Acute myocardial infarction, unspecified"
+  },
+  {
+    "snomed_code": 399211009,
+    "icd10_code": "I25.2",
+    "icd10_desc": "Old myocardial infarction"
+  },
+  {
+    "snomed_code": 302870006,
+    "icd10_code": "E78.1",
+    "icd10_desc": "Pure hyperglyceridaemia"
+  },
+  {
+    "snomed_code": 410429000,
+    "icd10_code": "I46.9",
+    "icd10_desc": "Cardiac arrest, unspecified"
+  },
+  {
+    "snomed_code": 429007001,
+    "icd10_code": "I46.9",
+    "icd10_desc": "Cardiac arrest, unspecified"
+  },
+  {
+    "snomed_code": 88805009,
+    "icd10_code": "I50.9",
+    "icd10_desc": "Heart failure, unspecified - chronic congestive"
+  },
+  {
+    "snomed_code": 44054006,
+    "icd10_code": "E11.9",
+    "icd10_desc": "Type 2 diabetes mellitus without complications"
+  },
+  {
+    "snomed_code": 15777000,
+    "icd10_code": "R73.0",
+    "icd10_desc": "Abnormal glucose tolerance test - prediabetes"
+  },
+  {
+    "snomed_code": 162864005,
+    "icd10_code": "E66.9",
+    "icd10_desc": "Obesity, unspecified - BMI 30+"
+  },
+  {
+    "snomed_code": 408512008,
+    "icd10_code": "E66.0",
+    "icd10_desc": "Morbid obesity - BMI 40+"
+  },
+  {
+    "snomed_code": 80394007,
+    "icd10_code": "R73.0",
+    "icd10_desc": "Abnormal glucose tolerance test - hyperglycaemia"
+  },
+  {
+    "snomed_code": 237602007,
+    "icd10_code": "E88.8",
+    "icd10_desc": "Other specified metabolic disorders - metabolic syndrome"
+  },
+  {
+    "snomed_code": 83664006,
+    "icd10_code": "E03.9",
+    "icd10_desc": "Hypothyroidism, unspecified - idiopathic atrophic"
+  },
+  {
+    "snomed_code": 38822007,
+    "icd10_code": "N30.9",
+    "icd10_desc": "Cystitis, unspecified"
+  },
+  {
+    "snomed_code": 301011002,
+    "icd10_code": "N39.0",
+    "icd10_desc": "Urinary tract infection - Escherichia coli"
+  },
+  {
+    "snomed_code": 197927001,
+    "icd10_code": "N39.0",
+    "icd10_desc": "Urinary tract infection - recurrent"
+  },
+  {
+    "snomed_code": 431855005,
+    "icd10_code": "N18.1",
+    "icd10_desc": "Chronic kidney disease, stage 1"
+  },
+  {
+    "snomed_code": 431856006,
+    "icd10_code": "N18.2",
+    "icd10_desc": "Chronic kidney disease, stage 2"
+  },
+  {
+    "snomed_code": 45816000,
+    "icd10_code": "N10",
+    "icd10_desc": "Acute tubulo-interstitial nephritis - pyelonephritis"
+  },
+  {
+    "snomed_code": 236077008,
+    "icd10_code": "K52.9",
+    "icd10_desc": "Non-infective gastro-enteritis - protracted diarrhoea"
+  },
+  {
+    "snomed_code": 10509002,
+    "icd10_code": "J20.9",
+    "icd10_desc": "Acute bronchitis, unspecified"
+  },
+  {
+    "snomed_code": 233678006,
+    "icd10_code": "J45.0",
+    "icd10_desc": "Predominantly allergic asthma - childhood"
+  },
+  {
+    "snomed_code": 185086009,
+    "icd10_code": "J44.9",
+    "icd10_desc": "Chronic obstructive pulmonary disease - chronic obstructive bronchitis"
+  },
+  {
+    "snomed_code": 87433001,
+    "icd10_code": "J43.9",
+    "icd10_desc": "Emphysema, unspecified"
+  },
+  {
+    "snomed_code": 233604007,
+    "icd10_code": "J18.9",
+    "icd10_desc": "Pneumonia, unspecified"
+  },
+  {
+    "snomed_code": 449868002,
+    "icd10_code": "F17.1",
+    "icd10_desc": "Mental and behavioural disorders due to tobacco - daily use"
+  },
+  {
+    "snomed_code": 162573006,
+    "icd10_code": "R91.8",
+    "icd10_desc": "Nonspecific abnormal findings on imaging - suspected lung cancer"
+  },
+  {
+    "snomed_code": 254637007,
+    "icd10_code": "C34.9",
+    "icd10_desc": "Malignant neoplasm of bronchus and lung - non-small cell"
+  },
+  {
+    "snomed_code": 424132000,
+    "icd10_code": "C34.9",
+    "icd10_desc": "Malignant neoplasm of bronchus and lung - non-small cell TNM stage 1"
+  },
+  {
+    "snomed_code": 254632001,
+    "icd10_code": "C34.9",
+    "icd10_desc": "Malignant neoplasm of bronchus and lung - small cell"
+  },
+  {
+    "snomed_code": 67811000119102,
+    "icd10_code": "C34.9",
+    "icd10_desc": "Malignant neoplasm of bronchus and lung - small cell TNM stage 1"
+  },
+  {
+    "snomed_code": 62106007,
+    "icd10_code": "S09.9",
+    "icd10_desc": "Unspecified injury of head - concussion without loss of consciousness"
+  },
+  {
+    "snomed_code": 230690007,
+    "icd10_code": "I63.9",
+    "icd10_desc": "Cerebral infarction, unspecified - stroke"
+  },
+  {
+    "snomed_code": 1734006,
+    "icd10_code": "S14.1",
+    "icd10_desc": "Other injuries of cervical spinal cord - vertebral fracture with SCI"
+  },
+  {
+    "snomed_code": 128613002,
+    "icd10_code": "G40.9",
+    "icd10_desc": "Epilepsy, unspecified - seizure disorder"
+  },
+  {
+    "snomed_code": 703151001,
+    "icd10_code": "G40.9",
+    "icd10_desc": "Epilepsy, unspecified - history of single seizure"
+  },
+  {
+    "snomed_code": 84757009,
+    "icd10_code": "G40.9",
+    "icd10_desc": "Epilepsy, unspecified"
+  },
+  {
+    "snomed_code": 124171000119105,
+    "icd10_code": "G43.7",
+    "icd10_desc": "Chronic migraine without aura - intractable"
+  },
+  {
+    "snomed_code": 62564004,
+    "icd10_code": "S06.0",
+    "icd10_desc": "Concussion - with loss of consciousness"
+  },
+  {
+    "snomed_code": 230265002,
+    "icd10_code": "G30.0",
+    "icd10_desc": "Alzheimer disease with early onset - familial"
+  },
+  {
+    "snomed_code": 26929004,
+    "icd10_code": "G30.9",
+    "icd10_desc": "Alzheimer disease, unspecified"
+  },
+  {
+    "snomed_code": 110030002,
+    "icd10_code": "S09.9",
+    "icd10_desc": "Unspecified injury of head - concussion injury of brain"
+  },
+  {
+    "snomed_code": 15724005,
+    "icd10_code": "S39.0",
+    "icd10_desc": "Injury of muscle and tendon - vertebral fracture without SCI"
+  },
+  {
+    "snomed_code": 275272006,
+    "icd10_code": "S09.9",
+    "icd10_desc": "Unspecified injury of head - traumatic brain damage"
+  },
+  {
+    "snomed_code": 370143000,
+    "icd10_code": "F33.9",
+    "icd10_desc": "Recurrent depressive disorder, unspecified - major depression"
+  },
+  {
+    "snomed_code": 192127007,
+    "icd10_code": "F90.9",
+    "icd10_desc": "Hyperkinetic disorder, unspecified - childhood ADHD"
+  },
+  {
+    "snomed_code": 36923009,
+    "icd10_code": "F32.9",
+    "icd10_desc": "Depressive episode, unspecified - single episode"
+  },
+  {
+    "snomed_code": 55680006,
+    "icd10_code": "T50.9",
+    "icd10_desc": "Other and unspecified drugs, medicaments and biological substances - overdose"
+  },
+  {
+    "snomed_code": 7200002,
+    "icd10_code": "F10.2",
+    "icd10_desc": "Mental and behavioural disorders due to alcohol - dependence syndrome"
+  },
+  {
+    "snomed_code": 5602001,
+    "icd10_code": "F11.1",
+    "icd10_desc": "Mental and behavioural disorders due to opioids - harmful use"
+  },
+  {
+    "snomed_code": 68496003,
+    "icd10_code": "K63.5",
+    "icd10_desc": "Polyp of colon"
+  },
+  {
+    "snomed_code": 74400008,
+    "icd10_code": "K37",
+    "icd10_desc": "Unspecified appendicitis"
+  },
+  {
+    "snomed_code": 428251008,
+    "icd10_code": "Z87.3",
+    "icd10_desc": "Personal history of musculoskeletal disorders - appendectomy"
+  },
+  {
+    "snomed_code": 713197008,
+    "icd10_code": "K63.5",
+    "icd10_desc": "Polyp of colon - recurrent rectal polyp"
+  },
+  {
+    "snomed_code": 403191005,
+    "icd10_code": "T30.2",
+    "icd10_desc": "Burn of second degree, body region unspecified"
+  },
+  {
+    "snomed_code": 6072007,
+    "icd10_code": "K62.5",
+    "icd10_desc": "Haemorrhage of anus and rectum"
+  },
+  {
+    "snomed_code": 363406005,
+    "icd10_code": "C18.9",
+    "icd10_desc": "Malignant neoplasm of colon, unspecified"
+  },
+  {
+    "snomed_code": 47693006,
+    "icd10_code": "K35.2",
+    "icd10_desc": "Acute appendicitis with generalised peritonitis - rupture"
+  },
+  {
+    "snomed_code": 109838007,
+    "icd10_code": "C18.8",
+    "icd10_desc": "Overlapping malignant neoplasm of colon"
+  },
+  {
+    "snomed_code": 94260004,
+    "icd10_code": "C78.5",
+    "icd10_desc": "Secondary malignant neoplasm of large intestine and rectum"
+  },
+  {
+    "snomed_code": 93761005,
+    "icd10_code": "C18.9",
+    "icd10_desc": "Primary malignant neoplasm of colon, unspecified"
+  },
+  {
+    "snomed_code": 70704007,
+    "icd10_code": "S63.6",
+    "icd10_desc": "Sprain and strain of finger(s) - sprain of wrist"
+  },
+  {
+    "snomed_code": 65966004,
+    "icd10_code": "S52.5",
+    "icd10_desc": "Fracture of lower end of radius - fracture of forearm"
+  },
+  {
+    "snomed_code": 44465007,
+    "icd10_code": "S93.4",
+    "icd10_desc": "Sprain and strain of ankle"
+  },
+  {
+    "snomed_code": 239873007,
+    "icd10_code": "M17.9",
+    "icd10_desc": "Gonarthrosis, unspecified - osteoarthritis of knee"
+  },
+  {
+    "snomed_code": 239872002,
+    "icd10_code": "M16.9",
+    "icd10_desc": "Coxarthrosis, unspecified - osteoarthritis of hip"
+  },
+  {
+    "snomed_code": 16114001,
+    "icd10_code": "S82.8",
+    "icd10_desc": "Fractures of other parts of lower leg - fracture of ankle"
+  },
+  {
+    "snomed_code": 263102004,
+    "icd10_code": "S62.0",
+    "icd10_desc": "Fracture of navicular [scaphoid] bone of hand - fracture subluxation of wrist"
+  },
+  {
+    "snomed_code": 33737001,
+    "icd10_code": "S22.3",
+    "icd10_desc": "Fracture of rib"
+  },
+  {
+    "snomed_code": 64859006,
+    "icd10_code": "M81.0",
+    "icd10_desc": "Postmenopausal osteoporosis"
+  },
+  {
+    "snomed_code": 201834006,
+    "icd10_code": "M19.0",
+    "icd10_desc": "Primary arthrosis of other joints - osteoarthritis of hand"
+  },
+  {
+    "snomed_code": 30832001,
+    "icd10_code": "M76.5",
+    "icd10_desc": "Patellar tendinitis - rupture of patellar tendon"
+  },
+  {
+    "snomed_code": 239720000,
+    "icd10_code": "M23.2",
+    "icd10_desc": "Derangement of meniscus due to old tear or injury"
+  },
+  {
+    "snomed_code": 90560007,
+    "icd10_code": "M10.9",
+    "icd10_desc": "Gout, unspecified"
+  },
+  {
+    "snomed_code": 69896004,
+    "icd10_code": "M06.9",
+    "icd10_desc": "Rheumatoid arthritis, unspecified"
+  },
+  {
+    "snomed_code": 359817006,
+    "icd10_code": "S72.0",
+    "icd10_desc": "Fracture of neck of femur - closed fracture of hip"
+  },
+  {
+    "snomed_code": 443165006,
+    "icd10_code": "M80.0",
+    "icd10_desc": "Postmenopausal osteoporosis with pathological fracture"
+  },
+  {
+    "snomed_code": 444470001,
+    "icd10_code": "S83.5",
+    "icd10_desc": "Sprain of knee - injury of anterior cruciate ligament"
+  },
+  {
+    "snomed_code": 95417003,
+    "icd10_code": "M79.3",
+    "icd10_desc": "Panniculitis - primary fibromyalgia syndrome"
+  },
+  {
+    "snomed_code": 444448004,
+    "icd10_code": "S83.4",
+    "icd10_desc": "Sprain of lateral collateral ligament - injury of medial collateral ligament"
+  },
+  {
+    "snomed_code": 72892002,
+    "icd10_code": "Z34.9",
+    "icd10_desc": "Supervision of normal pregnancy, unspecified"
+  },
+  {
+    "snomed_code": 19169002,
+    "icd10_code": "O03.9",
+    "icd10_desc": "Spontaneous abortion : Complete or unspecified, without complication"
+  },
+  {
+    "snomed_code": 156073000,
+    "icd10_code": "O36.9",
+    "icd10_desc": "Maternal care for unspecified fetal problem"
+  },
+  {
+    "snomed_code": 254837009,
+    "icd10_code": "C50.9",
+    "icd10_desc": "Breast, unspecified - malignant neoplasm"
+  },
+  {
+    "snomed_code": 398254007,
+    "icd10_code": "O14.9",
+    "icd10_desc": "Pre-eclampsia, unspecified"
+  },
+  {
+    "snomed_code": 79586000,
+    "icd10_code": "O00.1",
+    "icd10_desc": "Tubal pregnancy"
+  },
+  {
+    "snomed_code": 35999006,
+    "icd10_code": "O02.0",
+    "icd10_desc": "Blighted ovum and nonhydatidiform mole"
+  },
+  {
+    "snomed_code": 198992004,
+    "icd10_code": "O15.0",
+    "icd10_desc": "Eclampsia in pregnancy - antepartum"
+  },
+  {
+    "snomed_code": 284551006,
+    "icd10_code": "S91.3",
+    "icd10_desc": "Open wound of other parts of foot - laceration"
+  },
+  {
+    "snomed_code": 39848009,
+    "icd10_code": "S13.4",
+    "icd10_desc": "Sprain and strain of cervical spine - whiplash"
+  },
+  {
+    "snomed_code": 283371005,
+    "icd10_code": "S51.8",
+    "icd10_desc": "Open wound of other parts of forearm - laceration"
+  },
+  {
+    "snomed_code": 283385000,
+    "icd10_code": "S71.1",
+    "icd10_desc": "Open wound of thigh - laceration"
+  },
+  {
+    "snomed_code": 58150001,
+    "icd10_code": "S42.0",
+    "icd10_desc": "Fracture of clavicle"
+  },
+  {
+    "snomed_code": 370247008,
+    "icd10_code": "S01.8",
+    "icd10_desc": "Open wound of other parts of head - facial laceration"
+  },
+  {
+    "snomed_code": 284549007,
+    "icd10_code": "S61.4",
+    "icd10_desc": "Open wound of hand - laceration"
+  },
+  {
+    "snomed_code": 307731004,
+    "icd10_code": "S46.0",
+    "icd10_desc": "Injury of supraspinatus muscle and tendon - rotator cuff"
+  },
+  {
+    "snomed_code": 48333001,
+    "icd10_code": "T30.0",
+    "icd10_desc": "Burn of unspecified body region, unspecified degree"
+  },
+  {
+    "snomed_code": 403190006,
+    "icd10_code": "T30.1",
+    "icd10_desc": "Burn of first degree, body region unspecified"
+  },
+  {
+    "snomed_code": 262574004,
+    "icd10_code": "T14.8",
+    "icd10_desc": "Other injury of unspecified body region - bullet wound"
+  },
+  {
+    "snomed_code": 126906006,
+    "icd10_code": "D29.1",
+    "icd10_desc": "Benign neoplasm of prostate"
+  },
+  {
+    "snomed_code": 92691004,
+    "icd10_code": "D07.5",
+    "icd10_desc": "Carcinoma in situ of prostate"
+  },
+  {
+    "snomed_code": 314994000,
+    "icd10_code": "C79.8",
+    "icd10_desc": "Secondary malignant neoplasm - metastasis from prostate"
+  },
+  {
+    "snomed_code": 24079001,
+    "icd10_code": "L20.9",
+    "icd10_desc": "Atopic dermatitis, unspecified"
+  },
+  {
+    "snomed_code": 40275004,
+    "icd10_code": "L25.9",
+    "icd10_desc": "Unspecified contact dermatitis, unspecified cause"
+  },
+  {
+    "snomed_code": 271737000,
+    "icd10_code": "D64.9",
+    "icd10_desc": "Anaemia, unspecified"
+  },
+  {
+    "snomed_code": 196416002,
+    "icd10_code": "K01.1",
+    "icd10_desc": "Impacted teeth - impacted molars"
+  },
+  {
+    "snomed_code": 241929008,
+    "icd10_code": "T78.4",
+    "icd10_desc": "Allergy, unspecified - acute allergic reaction"
+  },
+  {
+    "snomed_code": 82423001,
+    "icd10_code": "G89.2",
+    "icd10_desc": "Chronic pain, not elsewhere classified"
+  },
+  {
+    "snomed_code": 40055000,
+    "icd10_code": "J32.9",
+    "icd10_desc": "Chronic sinusitis, unspecified"
+  },
+  {
+    "snomed_code": 444814009,
+    "icd10_code": "J06.9",
+    "icd10_desc": "Acute upper respiratory infection, unspecified"
+  },
+  {
+    "snomed_code": 195662009,
+    "icd10_code": "J02.9",
+    "icd10_desc": "Acute pharyngitis, unspecified"
+  },
+  {
+    "snomed_code": 43878008,
+    "icd10_code": "J02.0",
+    "icd10_desc": "Streptococcal pharyngitis"
+  },
+  {
+    "snomed_code": 75498004,
+    "icd10_code": "J01.9",
+    "icd10_desc": "Acute sinusitis, unspecified"
+  },
+  {
+    "snomed_code": 65363002,
+    "icd10_code": "H66.9",
+    "icd10_desc": "Otitis media, unspecified"
+  },
+  {
+    "snomed_code": 36971009,
+    "icd10_code": "J32.9",
+    "icd10_desc": "Chronic sinusitis, unspecified"
+  },
+  {
+    "snomed_code": 232353008,
+    "icd10_code": "J30.9",
+    "icd10_desc": "Allergic rhinitis, unspecified"
+  },
+  {
+    "snomed_code": 446096008,
+    "icd10_code": "J30.1",
+    "icd10_desc": "Allergic rhinitis due to pollen"
+  },
+  {
+    "snomed_code": 367498001,
+    "icd10_code": "J30.1",
+    "icd10_desc": "Allergic rhinitis due to pollen"
+  }
+]

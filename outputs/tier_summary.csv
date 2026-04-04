@@ -1,0 +1,5 @@
+risk_tier,patient_count,percentage
+Critical,56,4.9
+High,227,19.7
+Medium,605,52.5
+Low,264,22.9

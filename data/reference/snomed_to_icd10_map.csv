@@ -1,0 +1,131 @@
+snomed_code,icd10_code,icd10_desc
+368581000119106,E11.4,Type 2 diabetes mellitus : With neurological complications
+422034002,E11.3,Type 2 diabetes mellitus : With ophthalmic complications - retinopathy
+1551000119108,E11.3,Type 2 diabetes mellitus : With ophthalmic complications - nonproliferative retinopathy
+127013003,E11.2,Type 2 diabetes mellitus with renal complications - nephropathy
+90781000119102,E11.2,Type 2 diabetes mellitus with renal complications - microalbuminuria
+97331000119101,E11.3,Type 2 diabetes mellitus : With ophthalmic complications - macular oedema
+1501000119109,E11.3,Type 2 diabetes mellitus : With ophthalmic complications - proliferative retinopathy
+59621000,I10,Essential (primary) hypertension
+49436004,I48.9,"Atrial fibrillation and atrial flutter, unspecified"
+55822004,E78.5,"Hyperlipidaemia, unspecified"
+53741008,I25.1,Atherosclerotic heart disease - coronary artery disease
+22298006,I21.9,"Acute myocardial infarction, unspecified"
+399211009,I25.2,Old myocardial infarction
+302870006,E78.1,Pure hyperglyceridaemia
+410429000,I46.9,"Cardiac arrest, unspecified"
+429007001,I46.9,"Cardiac arrest, unspecified"
+88805009,I50.9,"Heart failure, unspecified - chronic congestive"
+44054006,E11.9,Type 2 diabetes mellitus without complications
+15777000,R73.0,Abnormal glucose tolerance test - prediabetes
+162864005,E66.9,"Obesity, unspecified - BMI 30+"
+408512008,E66.0,Morbid obesity - BMI 40+
+80394007,R73.0,Abnormal glucose tolerance test - hyperglycaemia
+237602007,E88.8,Other specified metabolic disorders - metabolic syndrome
+83664006,E03.9,"Hypothyroidism, unspecified - idiopathic atrophic"
+38822007,N30.9,"Cystitis, unspecified"
+301011002,N39.0,Urinary tract infection - Escherichia coli
+197927001,N39.0,Urinary tract infection - recurrent
+431855005,N18.1,"Chronic kidney disease, stage 1"
+431856006,N18.2,"Chronic kidney disease, stage 2"
+45816000,N10,Acute tubulo-interstitial nephritis - pyelonephritis
+236077008,K52.9,Non-infective gastro-enteritis - protracted diarrhoea
+10509002,J20.9,"Acute bronchitis, unspecified"
+233678006,J45.0,Predominantly allergic asthma - childhood
+185086009,J44.9,Chronic obstructive pulmonary disease - chronic obstructive bronchitis
+87433001,J43.9,"Emphysema, unspecified"
+233604007,J18.9,"Pneumonia, unspecified"
+449868002,F17.1,Mental and behavioural disorders due to tobacco - daily use
+162573006,R91.8,Nonspecific abnormal findings on imaging - suspected lung cancer
+254637007,C34.9,Malignant neoplasm of bronchus and lung - non-small cell
+424132000,C34.9,Malignant neoplasm of bronchus and lung - non-small cell TNM stage 1
+254632001,C34.9,Malignant neoplasm of bronchus and lung - small cell
+67811000119102,C34.9,Malignant neoplasm of bronchus and lung - small cell TNM stage 1
+62106007,S09.9,Unspecified injury of head - concussion without loss of consciousness
+230690007,I63.9,"Cerebral infarction, unspecified - stroke"
+1734006,S14.1,Other injuries of cervical spinal cord - vertebral fracture with SCI
+128613002,G40.9,"Epilepsy, unspecified - seizure disorder"
+703151001,G40.9,"Epilepsy, unspecified - history of single seizure"
+84757009,G40.9,"Epilepsy, unspecified"
+124171000119105,G43.7,Chronic migraine without aura - intractable
+62564004,S06.0,Concussion - with loss of consciousness
+230265002,G30.0,Alzheimer disease with early onset - familial
+26929004,G30.9,"Alzheimer disease, unspecified"
+110030002,S09.9,Unspecified injury of head - concussion injury of brain
+15724005,S39.0,Injury of muscle and tendon - vertebral fracture without SCI
+275272006,S09.9,Unspecified injury of head - traumatic brain damage
+370143000,F33.9,"Recurrent depressive disorder, unspecified - major depression"
+192127007,F90.9,"Hyperkinetic disorder, unspecified - childhood ADHD"
+36923009,F32.9,"Depressive episode, unspecified - single episode"
+55680006,T50.9,"Other and unspecified drugs, medicaments and biological substances - overdose"
+7200002,F10.2,Mental and behavioural disorders due to alcohol - dependence syndrome
+5602001,F11.1,Mental and behavioural disorders due to opioids - harmful use
+68496003,K63.5,Polyp of colon
+74400008,K37,Unspecified appendicitis
+428251008,Z87.3,Personal history of musculoskeletal disorders - appendectomy
+713197008,K63.5,Polyp of colon - recurrent rectal polyp
+403191005,T30.2,"Burn of second degree, body region unspecified"
+6072007,K62.5,Haemorrhage of anus and rectum
+363406005,C18.9,"Malignant neoplasm of colon, unspecified"
+47693006,K35.2,Acute appendicitis with generalised peritonitis - rupture
+109838007,C18.8,Overlapping malignant neoplasm of colon
+94260004,C78.5,Secondary malignant neoplasm of large intestine and rectum
+93761005,C18.9,"Primary malignant neoplasm of colon, unspecified"
+70704007,S63.6,Sprain and strain of finger(s) - sprain of wrist
+65966004,S52.5,Fracture of lower end of radius - fracture of forearm
+44465007,S93.4,Sprain and strain of ankle
+239873007,M17.9,"Gonarthrosis, unspecified - osteoarthritis of knee"
+239872002,M16.9,"Coxarthrosis, unspecified - osteoarthritis of hip"
+16114001,S82.8,Fractures of other parts of lower leg - fracture of ankle
+263102004,S62.0,Fracture of navicular [scaphoid] bone of hand - fracture subluxation of wrist
+33737001,S22.3,Fracture of rib
+64859006,M81.0,Postmenopausal osteoporosis
+201834006,M19.0,Primary arthrosis of other joints - osteoarthritis of hand
+30832001,M76.5,Patellar tendinitis - rupture of patellar tendon
+239720000,M23.2,Derangement of meniscus due to old tear or injury
+90560007,M10.9,"Gout, unspecified"
+69896004,M06.9,"Rheumatoid arthritis, unspecified"
+359817006,S72.0,Fracture of neck of femur - closed fracture of hip
+443165006,M80.0,Postmenopausal osteoporosis with pathological fracture
+444470001,S83.5,Sprain of knee - injury of anterior cruciate ligament
+95417003,M79.3,Panniculitis - primary fibromyalgia syndrome
+444448004,S83.4,Sprain of lateral collateral ligament - injury of medial collateral ligament
+72892002,Z34.9,"Supervision of normal pregnancy, unspecified"
+19169002,O03.9,"Spontaneous abortion : Complete or unspecified, without complication"
+156073000,O36.9,Maternal care for unspecified fetal problem
+254837009,C50.9,"Breast, unspecified - malignant neoplasm"
+398254007,O14.9,"Pre-eclampsia, unspecified"
+79586000,O00.1,Tubal pregnancy
+35999006,O02.0,Blighted ovum and nonhydatidiform mole
+198992004,O15.0,Eclampsia in pregnancy - antepartum
+284551006,S91.3,Open wound of other parts of foot - laceration
+39848009,S13.4,Sprain and strain of cervical spine - whiplash
+283371005,S51.8,Open wound of other parts of forearm - laceration
+283385000,S71.1,Open wound of thigh - laceration
+58150001,S42.0,Fracture of clavicle
+370247008,S01.8,Open wound of other parts of head - facial laceration
+284549007,S61.4,Open wound of hand - laceration
+307731004,S46.0,Injury of supraspinatus muscle and tendon - rotator cuff
+48333001,T30.0,"Burn of unspecified body region, unspecified degree"
+403190006,T30.1,"Burn of first degree, body region unspecified"
+262574004,T14.8,Other injury of unspecified body region - bullet wound
+126906006,D29.1,Benign neoplasm of prostate
+92691004,D07.5,Carcinoma in situ of prostate
+314994000,C79.8,Secondary malignant neoplasm - metastasis from prostate
+24079001,L20.9,"Atopic dermatitis, unspecified"
+40275004,L25.9,"Unspecified contact dermatitis, unspecified cause"
+271737000,D64.9,"Anaemia, unspecified"
+196416002,K01.1,Impacted teeth - impacted molars
+241929008,T78.4,"Allergy, unspecified - acute allergic reaction"
+82423001,G89.2,"Chronic pain, not elsewhere classified"
+40055000,J32.9,"Chronic sinusitis, unspecified"
+444814009,J06.9,"Acute upper respiratory infection, unspecified"
+195662009,J02.9,"Acute pharyngitis, unspecified"
+43878008,J02.0,Streptococcal pharyngitis
+75498004,J01.9,"Acute sinusitis, unspecified"
+65363002,H66.9,"Otitis media, unspecified"
+36971009,J32.9,"Chronic sinusitis, unspecified"
+232353008,J30.9,"Allergic rhinitis, unspecified"
+446096008,J30.1,Allergic rhinitis due to pollen
+367498001,J30.1,Allergic rhinitis due to pollen
+0,Z99.9,Unknown SNOMED code - not in mapping table
