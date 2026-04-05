@@ -1,6 +1,6 @@
 # Clinical Risk Analysis Pipeline v2
 
-![FHIR Validation](https://github.com/asadqureshi12/clinical-risk-analysis-v2/actions/workflows/validate.yml/badge.svg)
+[![FHIR Validation](https://github.com/asadqureshi12/clinical-risk-analysis-v2/actions/workflows/validate.yml/badge.svg)](https://github.com/asadqureshi12/clinical-risk-analysis-v2/actions/workflows/validate.yml)
 
 ## TL;DR
 
@@ -132,7 +132,7 @@ clinical-risk-analysis-v2/
 │   ├── fhir/
 │   │   └── clinical_risk_bundle.json
 │   └── validation/
-│       └──     └── fhir_validation_report.txt     ← HL7 FHIR Validator R4 output
+│       └──fhir_validation_report.txt     ← HL7 FHIR Validator R4 output
 │
 └── docs/
     ├── sprint_1_log.md
@@ -482,4 +482,4 @@ While this is a synthetic demonstration project, the architecture follows the sp
 
 ---
 
-*Clinical Risk Analysis Pipeline v2.1 · Synthetic data only · Not for clinical use*
+*Clinical Risk Analysis Pipeline v2 · Synthetic data only · Not for clinical use*
