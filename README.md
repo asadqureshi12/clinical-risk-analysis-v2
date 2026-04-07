@@ -57,6 +57,8 @@ This pipeline is designed to support proactive intervention, not retrospective a
 - Low Risk Stable
 → Suitable for standard primary care management without additional intervention
 
+---
+
 ## Pipeline Architecture
 
 ```
