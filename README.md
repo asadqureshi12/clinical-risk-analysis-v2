@@ -43,6 +43,22 @@ Raw EHR data alone does not support clinical decision-making at scale. This pipe
 
 ---
 
+## Operational Use in NHS Context
+
+This pipeline is designed to support proactive intervention, not retrospective analysis. Each output directly maps to a practical NHS use case:
+- Critical / High Risk Patients
+→ Prioritised for proactive review, MDT discussion, and closer monitoring to prevent deterioration and unplanned admissions
+- Cardio-Metabolic Segment
+→ Managed through integrated long-term condition pathways (e.g. diabetes + cardiovascular disease), with prioritised follow-up
+- Multimorbid Frail
+→ Requires coordinated care planning, frailty services involvement, and regular review due to high system dependency
+- Midlife Escalation
+→ Target for early intervention and optimisation of long-term condition management to prevent progression into high-risk cohorts
+- Acute Overlay
+→ Indicates short-term instability requiring immediate attention, but not necessarily long-term pathway enrolment
+- Low Risk Stable
+→ Suitable for standard primary care management without additional intervention
+
 ## Pipeline Architecture
 
 ```
