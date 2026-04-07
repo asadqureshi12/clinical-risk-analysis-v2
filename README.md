@@ -4,12 +4,10 @@
 
 ## TL;DR
 
-- End-to-end NHS-style clinical risk pipeline — raw EHR → SNOMED → risk scoring → segmentation → ICD-10 → FHIR R4
-- 1,152 patients · 129 SNOMED codes · 15 clinical categories · 18,337 FHIR resources
-- SNOMED CT used natively throughout — ICD-10 reserved for output layer only
-- Multi-layer risk scoring with documented clinical rationale for every design decision
-- Validated with custom Python structural validator and official HL7 FHIR Validator R4
-- Built by an MBBS graduate — clinical reasoning drives every architectural decision
+- End-to-end clinical risk stratification pipeline simulating how NHS systems prioritise patients for intervention
+- Transforms raw EHR data into risk scores, clinically meaningful segments, and interoperable FHIR outputs
+- Demonstrates how population-level data can be structured into actionable cohorts for proactive care delivery
+- Built using SNOMED CT (primary), UK ICD-10 (output layer), and FHIR R4 for interoperability
 
 ---
 
